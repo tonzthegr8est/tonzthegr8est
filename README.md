@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development/ Engineering
 - 🌱 I’m currently re-learning HTML, CSS & JavaScript
 - 💻 Microverse Student October '21
-- - 💞️ I’m looking to collaborate on any interesting project(s)
+- 💞️ I’m looking to collaborate on any interesting project(s)
 - 📫 How to reach me via Instagram @tonzthegr8est
 
 <!---
